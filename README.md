@@ -3,14 +3,19 @@
 A new Flutter project.
 
 ## Getting Started
+This is an app that shows all countries of the world statistics by using
+Rest Country API to load the data of each country.
 
-This project is a starting point for a Flutter application.
+#Showing statistics By tapping on any country, the statistics of the selected country 
+is shown to the user e.g population, currency, continent etc.
 
-A few resources to get you started if this is your first Flutter project:
+#Filtering Users can filter through the list by categorizing each country according to their language
+or continent or both atthe same time For Example: User can know countries that speak English and are
+located in Asia
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#API
+Restcountries.com API was used for this project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ 
+ 
